@@ -8,3 +8,7 @@ node_modules*
 # IntelliJ Idea
 *.iml
 .idea
+
+# Local files
+auth.json
+brain-dump.json
