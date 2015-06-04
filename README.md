@@ -15,6 +15,7 @@
 ## Feature 
 + Use jobot to spam failing test in a chat room.
 + notify a manager, when test fails 
+
 ## License
 
 MIT © [8D Technologies](http://www.8d.com)
