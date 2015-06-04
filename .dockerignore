@@ -1,0 +1,10 @@
+.git/
+.tests/
+.scratchpad/
+node_modules/
+cleanup.sh
+external-scripts.json
+hubot-scripts.json
+README.md
+i18n/*
+brain-dump.json.bk

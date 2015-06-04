@@ -1,0 +1,32 @@
+node_modules*
+.DS_Store*
+.env-setup
+# Javascript and transpiller map
+*.js
+*.map
+**/*.js
+**/*.map
+**/**/*.js
+**/**/*.map
+
+# IntelliJ Idea
+*.iml
+.idea
+
+# Backup
+*.bak
+**/*.bak
+**/**/*.bak
+
+# Local files
+auth.json
+jobot.log
+i18n
+log
+*.conf
+setup
+brain-dump*
+.hubot_history
+
+.npmrc
+.urls

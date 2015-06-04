@@ -1,0 +1,40 @@
+{
+  "name": "Jobot",
+  "version": "1.0.0",
+  "private": true,
+  "author": "8D Technologie",
+  "keywords": [
+    "github",
+    "hubot",
+    "jobot",
+    "bot"
+  ],
+  "description": "A simple helpful Continuous integration robot for your Company",
+  "license": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8DTechnologies/jobot.git"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "hubot": "2.12.0",
+    "hubot-help": "^0.1.1",
+    "hubot-xmpp": "^0.1.12",
+    "jobot-brain-file": "^0.1.4",
+    "jobot-helpful": "0.0.3",
+    "jobot-storage-util": "^0.1.3",
+    "jobot-ci":"0.1.0",
+    "jobot-logs":"^0.1.0"
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": ">= 1.1.x"
+  },
+  "scripts": {
+    "start": "./bin/localhost"
+  }
+}
