@@ -1,4 +1,4 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+#  [![Dependency Status][daviddm-image]][daviddm-url]
 # Jobot 
 ## 8D Technology's chatbot   
 
@@ -20,9 +20,5 @@
 MIT © [8D Technologies](http://www.8d.com)
 
 
-[npm-image]: https://badge.fury.io/js/jobot-ci.svg
-[npm-url]: https://npmjs.org/package/jobot-ci
-[travis-image]: https://travis-ci.org/scboucher/jobot-ci.svg?branch=master
-[travis-url]: https://travis-ci.org/scboucher/jobot-ci
-[daviddm-image]: https://david-dm.org/scboucher/jobot-ci.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/scboucher/jobot-ci
+[daviddm-image]: https://david-dm.org/scboucher/jobot.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/scboucher/jobot
